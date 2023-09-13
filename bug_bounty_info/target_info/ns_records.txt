@@ -1,4 +1,0 @@
-ns1.six-group.com.
-ns2.six-group.com.
-ns22.six-group.com.
-ns31.six-group.com.
